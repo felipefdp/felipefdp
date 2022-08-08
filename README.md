@@ -1,0 +1,3 @@
+- 👋 olá, eu sou o @felipe jahn
+-    eu sou um novato em progamação
+-    pretendo ser um progamador ou criador de jogos no futuro
